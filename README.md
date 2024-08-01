@@ -1,6 +1,5 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗔𝗠+𝗞𝗜𝗡𝗚𝗦+𝗠𝗗+𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣+𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘+𝗕𝗢𝗧;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗞𝗜𝗡𝗚𝗣𝗜𝗡+𝗧𝗘𝗖𝗛)](https://git.io/typing-svg)
+<h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐄𝐙𝐀𝐑𝐇😎</h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <details>
