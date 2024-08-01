@@ -1,12 +1,12 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
+<h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 </h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <details>
 <summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
   
-- 𝑩𝒐𝒕 𝑭𝒖𝒍𝒍𝒚 𝑩𝒖𝒕𝒕𝒐𝒏𝒆𝒅.
-- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈.
+- 𝑩𝒐𝒕 𝒔𝒕𝒊𝒍𝒍 𝒖𝒏𝒅𝒆𝒓 𝒎𝒂𝒊𝒏𝒕𝒂𝒊𝒏𝒂𝒏𝒄𝒆.
+- 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝒘𝒊𝒍𝒍 𝒃𝒆 𝒇𝒊𝒙𝒆𝒅.
 - 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑺𝒊𝒕𝒆𝒔.
 - 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍𝒔.
 - 𝑶𝒗𝒆𝒓𝒂𝒍 𝑷𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝑰𝒎𝒑𝒓𝒐𝒗𝒆𝒎𝒆𝒏𝒕𝒔.
@@ -16,13 +16,13 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mouricedevs"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Manacezarh/CEZARH-MD" src="https://img.shields.io/badge/GITHUB-CEZARH TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mouricedevs?label=Followers&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mouricedevs/gifted-md?style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mouricedevs/gifted-md?label=Watching&style=social"></a>
+<a href="https://github.com/mouricedevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/cezarh?label=Followers&style=social"></a>
+<a href="https://github.com/Manacezarh/CEZARH-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
+<a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manacezarh/CEZARH-MD?style=social"></a>
+<a href="https://github.com/Manacezarh/CEZARH-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Manacezarh/CEZARH-MD?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
