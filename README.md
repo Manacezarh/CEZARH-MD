@@ -109,7 +109,7 @@ Enjoy the diverse features of the *𝗖𝗘𝗭𝗔𝗥𝗛-𝗠𝗗*  to enhanc
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+  <p align="center">
   <p align="center">
 <a href="https://github.com/Manacezarh/CEZARH-MD" src="https://img.shields.io/badge/GITHUB-CEZARH TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
