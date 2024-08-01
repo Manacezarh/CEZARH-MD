@@ -22,7 +22,7 @@
 <p align="center">
 <a href="https://github.com/Manacezarh?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/manacezarh?label=Followers&style=social"></a>
 <a href="https://github.com/Manacezarh/CEZARH-MD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mouricedevs/gifted-md?&style=social"></a>
-<a href="https://github.com/mouricedevs/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manacezarh/CEZARH-MD?style=social"></a>
+<a href="https://github.com/Manacezarh/CEZARH-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/manacezarh/CEZARH-MD?style=social"></a>
 <a href="https://github.com/Manacezarh/CEZARH-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Manacezarh/CEZARH-MD?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
