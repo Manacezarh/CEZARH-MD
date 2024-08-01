@@ -304,8 +304,7 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- MH MODS OFC
-- ETHIX-XSID
+- KINGPIN TECH
 - BOT USERS
 - MYSELF
 </details>
@@ -315,22 +314,22 @@ https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- **[CONTACT SUPPORT](https://t.me/mouricedevs) For More Info**
-- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l) for Daily Updates.**
-- **Check out my [TELEGRAM BOT MD](https://web.giftedtechnexus.co.ke/bots/tg-bot) Project.**
+- **[CONTACT SUPPORT](https://t.me/cezarh) For More Info**
+- **Join [WHATSAPP CHANNEL](https://whatsapp.com/channel/0029VajuvtrLY6dAmWJKD544) for Daily Updates.**
+
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted-md&type=Timeline)](#)
+[![CEZARH-MD](https://api.star-history.com/svg?repos=Manacezarh/CEZARG-MD&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![Gifted-Md](https://api.star-history.com/svg?repos=mouricedevs/gifted-md&type=Timeline)](#)
+[![CEZARH-MD](https://api.star-history.com/svg?repos=Manacezarh/CEZARG-MD&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
