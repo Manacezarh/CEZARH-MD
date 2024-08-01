@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 </h1>
-src='https://i.imgur.com/LyHic3i.gif'/></a>
-src='https://telegra.ph/file/61ed9a580395c85de2dd3.jpg'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/61ed9a580395c85de2dd3.jpg" alt="01" border="0" /></a>                 
 <h1 align="center"> 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐄𝐙𝐀𝐑𝐇😎 </h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
