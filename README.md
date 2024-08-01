@@ -1,5 +1,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐄𝐙𝐀𝐑𝐇😎</h1>
+<h1 align="center"> 𝐂𝐄𝐙𝐀𝐑𝐇-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐈.𝟎.𝟎 </h1>
+<h1 align="center"> 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐂𝐄𝐙𝐀𝐑𝐇😎 </h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <details>
